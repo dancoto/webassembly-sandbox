@@ -1,4 +1,4 @@
-# Learning Webassembly
+# WebAssembly Sandbox
 
 Working through multiple examples to work with Webassembly
 
